@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 body{
 	height: 100vh;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.5rem;
 }
 .box{
 	display: flex;
