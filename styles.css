@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+body{
+	height: 100vh;
+}
 .box{
 	display: flex;
 	justify-content: center;
@@ -9,5 +12,10 @@
 	background: lightblue;
 	border: 2px solid black;
 	color: purple;
-	
+}
+.a{
+	position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
 }
